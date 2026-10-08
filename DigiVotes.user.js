@@ -166,7 +166,7 @@
     const b = document.createElement('div');
     b.textContent = '…';
     Object.assign(b.style, {
-      position: 'absolute', top: '6px', left: '6px', zIndex: 5,
+      position: 'absolute', top: '6px', right: '6px', zIndex: 5,
       background: 'rgba(0,0,0,.75)', color: '#fff',
       font: '12px/1.4 Vazirmatn, Tahoma, sans-serif',
       padding: '2px 8px', borderRadius: '10px',
